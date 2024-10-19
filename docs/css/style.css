@@ -37,5 +37,17 @@ body {
     align-items: center;
     justify-content: space-between;
     position: relative;
+    & .menu-logo {
+      display: flex;
+      & .menu {
+
+      }
+      & .logo {
+        & h1 {
+          font-size: 2em;
+          font-family: 'Tangerin' , cursive;
+        }
+      }
+    }
   }
 }
