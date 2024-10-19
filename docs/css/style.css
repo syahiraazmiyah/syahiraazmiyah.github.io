@@ -46,11 +46,12 @@ body {
       & .logo {
         & h1 {
           font-size: 2.5em;
-          font-family: 'Tangerine' , cursive;
+          font-family: 'Tangerine' , serif;
         & a {
-          font-weight: 500;
-          letter-spacing: 1px;
+          font-weight: 600;
+          letter-spacing: 2px;
           text-decoration: none;
+          text-shadow: 4px 4px 4px #ddd;
         }
         }
       }
