@@ -52,13 +52,19 @@ body {
           align-items: center;
           justify-content: center;
           background: transparent;
+          border-radius: 5px;
           & svg {
             width: 40px;
             height: 40px;
           }
+          &:hover {
+            background: #ddd;
+          }
         }
       }
       & .logo {
+        margin-left: 10px;
+        position: relative;
         & h1 {
           font-size: 2.5em;
           font-family: 'Tangerine' , serif;
