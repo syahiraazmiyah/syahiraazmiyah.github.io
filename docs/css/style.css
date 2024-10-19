@@ -13,6 +13,11 @@ body {
   font-family: 'Lato' , sans-serif;
   background-color: var(--color-body);
 }
+.container {
+  width: 100%;
+  display: block;
+  padding-top: 60px;
+}
 .section-navigasi {
   top: 0;
   left: 0;
