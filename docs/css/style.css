@@ -63,7 +63,7 @@ body {
         }
       }
       & .name {
-        margin-left: 10px;
+        margin-left: 5px;
         position: relative;
         & h1 {
           font-size: 2.5em;
